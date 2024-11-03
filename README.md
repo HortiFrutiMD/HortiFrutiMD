@@ -1,16 +1,20 @@
-## Hi there 👋
+## Olá! Eu sou o perfil oficial do HortifrutiMD 🖐️
 
-<!--
-**HortiFrutiMD/HortiFrutiMD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Excel](https://(https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+[![Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
-Here are some ideas to get you started:
+## Tecnologias que usamos no dia a dia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block">
+  <img align="center" alt="C" src=" https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white/>
+  <img align="center" alt="Windows" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white/>
+  
+</div><br/>
+
+🏪 Hortifruti Varejista, focado em atender o melhor preço com a melhor qualidade!
+
+### Estrutura:
+- [Frutas higienizadas e selecionadas 🍎]<br/>
+- [Ambiente limpo e organizado ✨]<br/>
+- [Funcionários qualificados e equipados 👷]<br/>
+- [Equipamentos e máquinas atuais 💻]<br/>
