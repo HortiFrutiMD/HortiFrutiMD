@@ -7,7 +7,6 @@
 
 <div style="display: inline_block">
   <img align="center" alt="C" src=" https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white/>
-  <img align="center" alt="Windows" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white/>
   
 </div><br/>
 
