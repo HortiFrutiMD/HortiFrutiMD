@@ -1,6 +1,6 @@
 ## Olá! Eu sou o perfil oficial do HortifrutiMD 🖐️
 
-[![Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+![Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
 ## Tecnologias que usamos no dia a dia
 
