@@ -4,9 +4,6 @@
 
 ## Tecnologias que usamos no dia a dia
 
-<div style="display: inline_block">
-  <img align="center" alt="C" src=" https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white/>
-</div><br/>
 
 🏪 Hortifruti Varejista, focado em atender o melhor preço com a melhor qualidade!
 
